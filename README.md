@@ -1,2 +1,1 @@
-deploy to containar testing now
-master slave node
+jfrogartifacory trsting
